@@ -1,21 +1,17 @@
-import './App.css'
-import Header from './components/Header'
 
-function App(){
+
+
+function App() {
   return (
     <div>
-      <Header /> 
-      <p>
-        ola mundo
-      </p>
-      <p>
-        ola mundo
-      </p>
-      <p>
-        teste 
-      </p>
+
+<p>
+  Andromeda coding Solutions
+</p>
+
+
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
