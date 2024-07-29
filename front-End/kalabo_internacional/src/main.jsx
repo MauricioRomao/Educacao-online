@@ -6,8 +6,8 @@ import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 
 // páginas de rotas
-import Login from './components/Login.jsx'
-import Home from './components/Home.jsx'
+import Login from './pages/Login.jsx'
+import Home from './pages/Home.jsx'
 
 const router = createBrowserRouter([
   {
