@@ -13,7 +13,7 @@ function Login() {
         
       < Login_content />
       </div>
-      <Footer /> 
+      <Footer />  
     </div>
   );
 }
